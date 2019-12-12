@@ -2,6 +2,7 @@
 A Conway's Game of Life simulator in Python
 
 Team: 2-4 people
+
 Challenge: Intermediate
 
 Conway's Game of Life (https://en.wikipedia.org/wiki/Conway's_Game_of_Life) is a simple 
